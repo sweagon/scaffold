@@ -1,0 +1,25 @@
+# robots.txt for static websites
+
+# Allow all crawlers to access the entire site
+User-agent: *
+Disallow: /private/
+Disallow: /admin/
+Disallow: /login/
+
+# Block specific crawlers (example: block a specific bot)
+User-agent: BadBot
+Disallow: /
+
+# Allow access to images, videos, and other resources
+Allow: /images/
+Allow: /assets/
+Allow: /videos/
+
+# Prevent indexing of any URL containing query parameters (optional)
+Disallow: /*?
+
+# Sitemap location (adjust with your actual sitemap URL)
+Sitemap: https://www.yourwebsite.com/sitemap.xml
+
+# Crawl delay (optional, adjust if needed)
+Crawl-delay: 10

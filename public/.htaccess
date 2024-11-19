@@ -1,0 +1,102 @@
+# Enable server-side caching for static assets (images, CSS, JavaScript)
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresDefault "access plus 1 month"
+
+    # Set expiration for common file types
+    ExpiresByType image/jpg "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType text/css "access plus 1 year"
+    ExpiresByType application/javascript "access plus 1 year"
+    ExpiresByType application/x-javascript "access plus 1 year"
+    ExpiresByType font/woff2 "access plus 1 year"
+    ExpiresByType font/woff "access plus 1 year"
+    ExpiresByType application/font-woff2 "access plus 1 year"
+    ExpiresByType application/font-woff "access plus 1 year"
+    ExpiresByType application/font-otf "access plus 1 year"
+    ExpiresByType application/vnd.ms-fontobject "access plus 1 year"
+    ExpiresByType font/otf "access plus 1 year"
+    ExpiresByType text/html "access plus 1 hour"
+</IfModule>
+
+# Enable Gzip Compression (content-encoding: gzip)
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css application/javascript application/json application/xml
+</IfModule>
+
+# Cache-Control Headers for better performance
+<IfModule mod_headers.c>
+    # Caching for images, CSS, JS, fonts, etc.
+    <FilesMatch "\.(ico|jpg|jpeg|png|gif|css|js|woff|woff2|ttf|svg|eot|otf)$">
+        Header set Cache-Control "public, max-age=31536000, immutable"
+    </FilesMatch>
+
+    # Caching for HTML pages (shorter cache duration)
+    <FilesMatch "\.(html|htm)$">
+        Header set Cache-Control "public, max-age=3600"
+    </FilesMatch>
+
+    # Add cache control for JSON API responses (if applicable)
+    <FilesMatch "\.(json)$">
+        Header set Cache-Control "public, max-age=3600"
+    </FilesMatch>
+</IfModule>
+
+# Force HTTPS (if SSL is enabled)
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTPS} off
+    RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+# Redirect www to non-www (SEO optimization)
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+    RewriteRule ^ https://%1%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+# SEO: Canonical URLs - Redirect all non-canonical URLs to the main domain
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{THE_REQUEST} \s/+(.*?)(\?|#|$) [NC]
+    RewriteRule ^ https://www.yourwebsite.com/%1 [L,R=301]
+</IfModule>
+
+# Security: Prevent access to .htaccess and other sensitive files
+<FilesMatch "^\.">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Security: Prevent directory listing
+Options -Indexes
+
+# Security: Disable access to certain files
+<FilesMatch "\.(env|json|bak|config|log|sh|md)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# SEO: Set X-Robots-Tag headers (for blocking or allowing specific content)
+<IfModule mod_headers.c>
+    Header set X-Robots-Tag "noindex, nofollow" "expr=%{REQUEST_URI} =~ m#\.(env|json|bak|config|log)$#"
+</IfModule>
+
+# Security: Enable HTTP Strict Transport Security (HSTS)
+<IfModule mod_headers.c>
+    Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+</IfModule>
+
+# Prevent Hotlinking (protect images from being used on other websites)
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTP_REFERER} !^https://(www\.)?yourwebsite\.com [NC]
+    RewriteRule \.(jpg|jpeg|png|gif|webp)$ - [F]
+</IfModule>
+
+# SEO: Sitemap URL
+# Uncomment and change the URL below with your actual sitemap location
+# Sitemap: https://www.yourwebsite.com/sitemap.xml

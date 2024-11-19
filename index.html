@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+
+  <!-- Favicon and Icons -->
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <link rel="icon" type="image/png" href="/favicon.png" /> <!-- fallback for browsers that don't support svg -->
+
+  <!-- Meta Tags for SEO -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Vite + React + TypeScript project" />
+  <meta name="robots" content="index, follow" />
+
+  <!-- Title (SEO) -->
+  <title>Vite + React + TypeScript</title>
+
+  <!-- Preconnect to Google Fonts (for faster loading) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+  <!-- Preload critical fonts (Poppins and Montserrat) -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    rel="stylesheet">
+
+  <!-- Ensure critical styles are loaded early (font preloading) -->
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+
+  <!-- Open Graph Meta Tags for Social Sharing -->
+  <meta property="og:title" content="Vite + React + TypeScript" />
+  <meta property="og:description" content="A modern Vite setup with React and TypeScript" />
+  <meta property="og:image" content="/og-image.jpg" /> <!-- Ensure you have an image for social sharing -->
+  <meta property="og:url" content="https://yourdomain.com" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <!-- Add a few additional links and attributes to improve page load performance -->
+  <link rel="preload" href="/src/main.tsx" as="script" />
+
+  <!-- Optimized icon links for various devices (Apple, Android) -->
+  <link rel="apple-touch-icon" href="/icon-192x192.png" />
+  <meta name="theme-color" content="#ffffff" />
+
+  <!-- Prevent rendering delay (Preload key resources) -->
+  <link rel="preload" href="/src/main.tsx" as="script" />
+</head>
+
+<body>
+  <div id="root"></div>
+
+  <!-- Main JavaScript entry -->
+  <script type="module" src="/src/main.tsx"></script>
+
+  <!-- Optional: Include a script for analytics or other tools here (e.g., Google Analytics, etc.) -->
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_TRACKING_ID"></script> -->
+</body>
+
+</html>

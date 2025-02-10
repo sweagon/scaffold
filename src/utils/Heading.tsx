@@ -1,5 +1,5 @@
-import React, { ReactNode } from 'react';
-import { twMerge } from 'tw-merge'; // Import twMerge for handling merged classnames
+import React, { ReactNode } from "react";
+import { twMerge } from "tw-merge"; // Import twMerge for handling merged classnames
 
 // Define types for the Heading component props
 interface HeadingProps {
@@ -13,21 +13,21 @@ interface HeadingProps {
 const Heading: React.FC<HeadingProps> = ({
   children,
   level,
-  className = '',
+  className = "",
   id,
   as: Component = `h${level}`, // Default to the correct heading level (h1-h6)
 }) => {
   // Define base styles for headings
-  const baseStyles = 'font-bold text-gray-900';
+  const baseStyles = "!text-white";
 
   // Define heading sizes for different levels, just an example of size scaling
   const headingSize = {
-    1: 'text-4xl',
-    2: 'text-3xl',
-    3: 'text-2xl',
-    4: 'text-xl',
-    5: 'text-lg',
-    6: 'text-base',
+    1: "text-[calc(1.75rem+4vw)] leading-[calc(1.75rem+4vw)]",
+    2: "text-[calc(1.5rem+3vw)] leading-[calc(1.5rem+3vw)]",
+    3: "lg:text-2xl md:text-xl text-lg",
+    4: "text-4xl",
+    5: "text-3xl",
+    6: "text-2xl",
   };
 
   // Merge the base styles with level-specific size and any custom className passed

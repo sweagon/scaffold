@@ -1,60 +1,79 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+    />
 
-<head>
-  <meta charset="UTF-8" />
+    <!-- Title & Branding -->
+    <title>
+      Eagle Eyes Built - Quality Construction Services in New Zealand
+    </title>
 
-  <!-- Favicon and Icons -->
-  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-  <link rel="icon" type="image/png" href="/favicon.png" /> <!-- fallback for browsers that don't support svg -->
+    <!-- Meta Description (SEO) -->
+    <meta
+      name="description"
+      content="Eagle Eyes Built specializes in high-quality construction, architecture, roofing, waterproofing, tiling, and residential building services across New Zealand."
+    />
+    <meta
+      name="keywords"
+      content="construction, residential building, waterproofing, roofing, tiling, Eagle Eyes Built, Auckland, New Zealand"
+    />
+    <meta name="robots" content="index, follow" />
 
-  <!-- Meta Tags for SEO -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Vite + React + TypeScript project" />
-  <meta name="robots" content="index, follow" />
+    <!-- Open Graph (Social Sharing) -->
+    <meta
+      property="og:title"
+      content="Eagle Eyes Built - Quality Construction Services"
+    />
+    <meta
+      property="og:description"
+      content="Transforming your vision into reality with expert construction services in New Zealand."
+    />
+    <meta
+      property="og:image"
+      content="https://eagleeyesbuilt.co.nz/og-image.jpg"
+    />
+    <meta property="og:url" content="https://eagleeyesbuilt.co.nz" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
 
-  <!-- Title (SEO) -->
-  <title>Vite + React + TypeScript</title>
+    <!-- Favicon & Icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#262626" />
+    <!-- Adjust to match the brand color -->
 
-  <!-- Preconnect to Google Fonts (for faster loading) -->
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- Preconnect & Prefetch -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
 
-  <!-- Preload critical fonts (Poppins and Montserrat) -->
-  <link
-    href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-    rel="stylesheet">
+    <!-- Fonts (Montserrat & Poppins) -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Poppins:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
 
-  <!-- Ensure critical styles are loaded early (font preloading) -->
-  <link rel="stylesheet"
-    href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <!-- Preload main styles -->
+    <link rel="stylesheet" href="/src/main.css" />
 
-  <!-- Open Graph Meta Tags for Social Sharing -->
-  <meta property="og:title" content="Vite + React + TypeScript" />
-  <meta property="og:description" content="A modern Vite setup with React and TypeScript" />
-  <meta property="og:image" content="/og-image.jpg" /> <!-- Ensure you have an image for social sharing -->
-  <meta property="og:url" content="https://yourdomain.com" />
-  <meta name="twitter:card" content="summary_large_image" />
+    <!-- Preload JavaScript -->
+    <link rel="preload" href="/src/main.tsx" as="script" />
+  </head>
 
-  <!-- Add a few additional links and attributes to improve page load performance -->
-  <link rel="preload" href="/src/main.tsx" as="script" />
+  <body>
+    <div id="root"></div>
 
-  <!-- Optimized icon links for various devices (Apple, Android) -->
-  <link rel="apple-touch-icon" href="/icon-192x192.png" />
-  <meta name="theme-color" content="#ffffff" />
+    <!-- Main JavaScript Entry -->
+    <script type="module" src="/src/main.tsx"></script>
 
-  <!-- Prevent rendering delay (Preload key resources) -->
-  <link rel="preload" href="/src/main.tsx" as="script" />
-</head>
-
-<body>
-  <div id="root"></div>
-
-  <!-- Main JavaScript entry -->
-  <script type="module" src="/src/main.tsx"></script>
-
-  <!-- Optional: Include a script for analytics or other tools here (e.g., Google Analytics, etc.) -->
-  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_TRACKING_ID"></script> -->
-</body>
-
+    <!-- Google Analytics (Optional) -->
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_TRACKING_ID"></script> -->
+  </body>
 </html>

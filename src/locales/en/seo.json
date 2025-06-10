@@ -1,0 +1,51 @@
+{
+  "seo_title": "SEO",
+  "seo_intro": "In the digital world, it is crucial that your company can be found online. Search engine optimization (SEO) helps you to place your website at the top of the search results of Google and other search engines. This way, you can reach more potential customers and increase your visibility. But what exactly is SEO and why is it so important for your success?",
+  "what_is_seo_title": "What is SEO?",
+  "what_is_seo_description": "SEO (Search Engine Optimization) is the process of optimizing a website to increase its visibility in the organic search results of search engines like Google. The goal is to make the website more visible for relevant search queries by selecting relevant keywords, providing high-quality content, technical optimizations and building backlinks. SEO is a long-term strategy that aims to drive more qualified traffic to your site by ranking higher in search results.",
+  "our_approach_title": "Our approach to SEO",
+  "our_approach_steps": {
+    "step1": "Custom keyword analysis: We identify the best keywords for your business to target the right audiences.",
+    "step2": "Content optimization: We create and optimize content that is valuable to both search engines and users.",
+    "step3": "Technical SEO: We make sure that your website is technically sound and can be easily crawled by search engines.",
+    "step4": "On-page SEO: We improve the visibility of each page by optimizing meta tags, URLs and internal linking.",
+    "step5": "Backlink strategy: We develop a targeted strategy for building high-quality backlinks to strengthen your domain authority.",
+    "step6": "Continuous analysis and optimization: We regularly monitor performance and adjust the strategy to ensure long-term success."
+  },
+  "list": [
+    {
+      "title": "SEO content",
+      "description": "Good content is the cornerstone of any SEO strategy. Search engines like Google favor pages with high-quality, relevant, and regularly updated content. Our goal is to create content that both inspires your target audience and meets the requirements of search engines. Through targeted keyword integration, clear structuring and appealing texts, we ensure that your content is not only read, but also shared and linked."
+    },
+    {
+      "title": "Technical SEO",
+      "description": "Technical SEO is the basis on which all other SEO measures are built. We ensure that your website is technically sound so that search engines can easily index your site. This includes optimizations such as improving loading speed, implementing a clear URL structure and optimizing the page structure for better crawlability. We also make sure that your site works perfectly on mobile devices – an important ranking factor on Google."
+    },
+    {
+      "title": "Keyword research and optimization",
+      "description": "The basis of successful SEO work is careful keyword research. We analyze which search terms your target audience uses and optimize your site accordingly. It's not just about choosing the right keywords, but also how you effectively integrate them into your content without affecting readability or usability. This is how we ensure that you are visible for the right search queries."
+    },
+    {
+      "title": "SEO structure of the site",
+      "description": "The structure of your website plays a crucial role in SEO ranking. A clear hierarchy and easy navigation not only ensure a better user experience, but also better indexing by search engines. We optimize your page structure so that search engines can more efficiently crawl and categorize your content. This includes the use of header tags (H1, H2, H3), a logical page architecture and a sitemap that makes it easier for search engines to understand your page."
+    },
+    {
+      "title": "SEO Expertise",
+      "description": "With years of experience in search engine optimization, we provide customized SEO strategies that maximize your online visibility and make your business stand out from the competition. We combine in-depth expertise with innovative methods to not only get your website to the top of the search results, but also to keep it there for the long term."
+    }
+  ],
+  "seo_expertise_list": [
+    "Keyword research",
+    "On-page optimization",
+    "Technical SEO",
+    "Backlink building",
+    "Mobile optimization",
+    "SEO-friendly URL structure",
+    "Meta tags optimization",
+    "Page loading speed",
+    "Content marketing",
+    "User experience (UX)",
+    "Optimization for local search (Local SEO)",
+    "Search engine analysis and reporting"
+  ]
+}

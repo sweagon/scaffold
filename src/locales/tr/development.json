@@ -1,0 +1,51 @@
+{
+  "development_title": "CUSTOM DEVELOPMENT",
+  "development_intro": "Özelleştirilmiş çözümlerle, size iş süreçlerinize tam olarak uyarlanmış yazılımlar sunuyoruz. İster karmaşık web uygulamalarının, arayüzlerin veya özel araçların geliştirilmesi olsun - verimli ve kullanıcı dostu dijital ürünler yaratıyoruz. Özelleştirilmiş çözümlerle verimliliğinizi artırıyor ve gereksinimlerinizin tam olarak karşılanmasını sağlıyoruz.",
+  "what_is_development_title": "ÖZEL GELİŞTİRME NEDİR?",
+  "what_is_development_description": "Özel geliştirme, bir şirketin bireysel ihtiyaçlarına ve gereksinimlerine özel olarak uyarlanmış yazılım çözümlerinin özelleştirilmiş olarak geliştirilmesini ifade eder. Hazır standart çözümler kullanmak yerine, şirketin özel iş süreçlerine ve hedeflerine karşılık gelen benzersiz programlar, web uygulamaları veya araçlar geliştirilir. Özel geliştirme, doğrudan şirketin gereksinimlerine ve zorluklarına göre uyarlanmış optimum işlevler ve daha iyi bir kullanıcı deneyimi yaratmayı mümkün kılar.",
+  "our_approach_title": "Özel geliştirmeye yaklaşımımız",
+  "our_approach_steps": {
+    "step1": "İhtiyaç analizi: Özel gereksinimlerinizi anlamak için dikkatle dinliyor ve size özel bir çözüm tasarlıyoruz.",
+    "step2": "Mimari ve planlama: Birlikte hem esnek hem de ölçeklenebilir olan en uygun teknik mimariyi geliştiriyoruz.",
+    "step3": "Geliştirme: Deneyimli geliştiricilerimiz çözümü tam olarak uyguluyor ve en yüksek kalite ve işlevselliği sağlıyor.",
+    "step4": "Entegrasyon: Geliştirilen sistemleri mevcut altyapınıza sorunsuz bir şekilde entegre ediyoruz, böylece bunlardan hemen yararlanabilirsiniz.",
+    "step5": "Test ve kalite güvencesi: Kapsamlı testler sayesinde çözümün güvenilir ve hatasız bir şekilde çalışmasını sağlıyoruz.",
+    "step6": "Destek ve bakım: Tamamlandıktan sonra bile, çözümünüzün her zaman güncel olmasını sağlamak için sürekli destek ve bakım sağlıyoruz."
+  },
+  "list": [
+    {
+      "title": "Özelleştirme",
+      "description": "Özel geliştirme, şirketinizin özel gereksinimlerine tam olarak uyarlanmış çözümlerin oluşturulmasını sağlar. Yazılım, genel işlevsellik sağlamak yerine mevcut iş süreçleri ve hedeflerine yönelik olduğundan, bu daha fazla verimlilik sağlar."
+    },
+    {
+      "title": "Esneklik ve Ölçeklenebilirlik",
+      "description": "Özelleştirilmiş yazılım çözümleri, işletmenizin gelecekteki değişikliklerine ve büyümesine kolayca uyarlanabilir. Önceden oluşturulmuş sistemlerin sınırlamalarına bağlı kalmadan yeni özellikler ekleme ve mimariyi gerektiği gibi genişletme esnekliği sunarlar."
+    },
+    {
+      "title": "Güvenlik",
+      "description": "Özelleştirilmiş yazılım, işletmenizin özel ihtiyaçlarını ve risklerini karşılamak için güvenlik önlemleriyle özel olarak tasarlanabilir. Özelleştirilmiş çözümler güvenlik açıklarını ve zafiyetlerini en aza indirerek siber saldırı veya veri kaybı riskini azaltabilir."
+    },
+    {
+      "title": "Uzun Vadeli Maliyet Tasarrufu",
+      "description": "Özel geliştirme başlangıçta daha yüksek maliyetlere neden olsa da, bu maliyetler yazılımın daha verimli kullanılması ve gelecekte özelleştirme veya pahalı yükseltmelere daha az ihtiyaç duyulmasıyla karşılanır. Özel çözümler uzun vadede daha iyi maliyet kontrolü sağlar ve standart yazılımın kullanılmayan işlevleri için gereksiz harcamaları önler."
+    }
+  ],
+  "title": "Özel Geliştirme Uzmanlığı",
+  "description": "Özel geliştirme alanındaki uzmanlığımız, şirketinizin özel gereksinimleri ve hedefleri için optimize edilmiş özel çözümler geliştirmemizi sağlar. Uzun yıllara dayanan deneyimimizle, şirketinizin daha verimli çalışmasına ve uzun vadeli başarı için kendini konumlandırmasına yardımcı olan güvenilir, ölçeklenebilir ve güvenli yazılım çözümleri sunuyoruz.",
+  "expertise_list": [
+    "Özelleştirilmiş çözümler",
+    "Ölçeklenebilirlik",
+    "Esneklik",
+    "Kullanıcı dostu",
+    "Mevcut sistemlere entegrasyon",
+    "Güvenlik",
+    "Performans optimizasyonu",
+    "Çeviklik",
+    "Teknolojik yenilik",
+    "Arayüz geliştirme",
+    "Bakım ve destek",
+    "Uzun vadeli maliyet verimliliği"
+  ],
+  "cta_title": "Markanızı parlatmaya hazır mısınız? Hadi konuşalım!",
+  "cta_description": "Birlikte hikayenizi görünür kılacak ve bir sonraki projenizi başarıyla gerçekleştireceğiz."
+}

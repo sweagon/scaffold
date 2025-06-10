@@ -1,0 +1,61 @@
+{
+  "title": "Services (Leistungen)",
+  "description": "Erfolgreiche digitale Lösungen brauchen die richtige Strategie – und genau hier setzen wir an. Ob Webdesign, SEO, Branding oder individuelle Softwarelösungen, wir bieten maßgeschneiderte Services, die dein Unternehmen voranbringen. Unser Fokus: innovative, leistungsstarke und nachhaltige Lösungen mit messbaren Ergebnissen. Lass uns dein nächstes digitales Projekt gemeinsam umsetzen!",
+  "services": {
+    "web_design": {
+      "title": "Innovatives Webdesign",
+      "description": "Wir gestalten Websites, die nicht nur gut aussehen, sondern auch funktional und benutzerfreundlich sind. Mit modernem Design, optimierter Performance und klarem Fokus auf Conversion machen wir deine Website zu einem echten Erfolgsfaktor."
+    },
+    "seo": {
+      "title": "SEO",
+      "description": "Mehr Sichtbarkeit, mehr Reichweite, mehr Kunden – mit datengetriebenem SEO bringen wir deine Website auf die vorderen Plätze in den Suchmaschinen. Wir optimieren Inhalte, Technik und Struktur, damit du langfristig erfolgreich bist."
+    },
+    "branding": {
+      "title": "Branding",
+      "description": "Eine starke Marke bleibt im Kopf. Wir helfen dir, eine unverwechselbare Identität zu entwickeln – von Logo und Design bis hin zu Markenstrategie und Positionierung."
+    },
+    "sea": {
+      "title": "SEA",
+      "description": "Effektive Werbekampagnen, messbare Ergebnisse – mit gezielten Anzeigen in Google und Social Media sorgen wir für maximale Reichweite und höhere Conversions."
+    },
+    "development": {
+      "title": "Individuelle Entwicklungen",
+      "description": "Jedes Unternehmen ist einzigartig – und so auch seine Anforderungen. Wir entwickeln maßgeschneiderte Web- und Softwarelösungen, die perfekt auf deine Bedürfnisse abgestimmt sind."
+    }
+  },
+  "process": {
+    "scoping_session": "In der Scoping Session analysieren wir gemeinsam deine Ziele und Anforderungen, um eine klare Grundlage für das Projekt zu schaffen.",
+    "proposal": "Wir erstellen ein maßgeschneidertes Angebot, das die vereinbarten Ziele, Strategien und den Zeitrahmen für das Projekt abbildet.",
+    "strategy": "Basierend auf den vorherigen Schritten entwickeln wir eine durchdachte Strategie, die den Erfolg des Projekts sicherstellt.",
+    "build": "Im Build-Schritt setzen wir die geplanten Lösungen um und entwickeln alle nötigen Elemente, um die Strategie in die Realität umzusetzen.",
+    "deliver": "Am Ende liefern wir das fertige Projekt und stellen sicher, dass es deinen Erwartungen entspricht und reibungslos funktioniert."
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "project_duration": {
+      "question": "Wie lange dauert es, bis das Projekt abgeschlossen ist?",
+      "answer": "Die Dauer eines Projekts hängt von seiner Komplexität ab. In der Regel besprechen wir einen klaren Zeitrahmen in der ersten Phase der Zusammenarbeit. Kleinere Projekte wie eine Website können in wenigen Wochen abgeschlossen werden, während größere Lösungen etwas mehr Zeit benötigen. Wir halten dich während des gesamten Prozesses stets auf dem Laufenden."
+    },
+    "cost": {
+      "question": "Was kostet die Zusammenarbeit mit eurer Agentur?",
+      "answer": "Die Kosten variieren je nach Art und Umfang des Projekts. Nach einer ersten Beratung und einer Scoping Session erstellen wir ein individuelles Angebot, das auf deine spezifischen Bedürfnisse und Ziele abgestimmt ist. So erhältst du eine transparente und faire Preisstruktur."
+    },
+    "support": {
+      "question": "Bietet ihr auch laufende Unterstützung nach dem Projektabschluss an?",
+      "answer": "Ja, wir bieten fortlaufende Wartung und Unterstützung an, um sicherzustellen, dass deine Website oder Software immer auf dem neuesten Stand bleibt und optimal funktioniert. Wir sind auch nach dem Projektstart jederzeit für dich da, um Anpassungen oder Verbesserungen vorzunehmen."
+    },
+    "communication": {
+      "question": "Wie wird die Kommunikation während des Projekts gehandhabt?",
+      "answer": "Wir setzen auf eine enge und regelmäßige Kommunikation. Du wirst während des gesamten Projekts in alle wichtigen Entscheidungen und Entwicklungen einbezogen. Wir verwenden Tools wie Slack oder E-Mail, um Updates zu teilen und Rückfragen zu klären. Bei Bedarf vereinbaren wir regelmäßige Meetings, um den Fortschritt zu besprechen."
+    },
+    "changes": {
+      "question": "Kann ich nach Abschluss des Projekts noch Änderungen vornehmen lassen?",
+      "answer": "Ja, natürlich! Nach dem Projektabschluss sind Anpassungen jederzeit möglich. Wir verstehen, dass sich Anforderungen ändern können, und bieten auch nach der Fertigstellung deines Projekts eine flexible Lösung, um deine Wünsche umzusetzen."
+    }
+  },
+  "cta": {
+    "title": "Bereit, deine Marke zum Strahlen zu bringen?",
+    "subtitle": "Lass uns reden!",
+    "description": "Gemeinsam machen wir deine Geschichte sichtbar und setzen dein nächstes Projekt erfolgreich um."
+  }
+}

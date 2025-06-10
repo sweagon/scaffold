@@ -1,0 +1,51 @@
+{
+  "development_title": "CUSTOM DEVELOPMENT",
+  "development_intro": "With individually developed solutions, we offer you software that is precisely tailored to your business processes. Whether it's the development of complex web applications, interfaces or specific tools - we create digital products that are efficient and user-friendly. With customized solutions, we increase your efficiency and ensure that your requirements are fully met.",
+  "what_is_development_title": "WHAT IS CUSTOM DEVELOPMENT?",
+  "what_is_development_description": "Custom development refers to the tailor-made development of software solutions that are specifically adapted to the individual needs and requirements of a company. Rather than using ready-made standard solutions, unique programs, web applications or tools are developed that correspond to the company's specific business processes and objectives. Custom development makes it possible to create optimal functionalities and a better user experience that are directly tailored to the company's requirements and challenges.",
+  "our_approach_title": "Our approach to custom development",
+  "our_approach_steps": {
+    "step1": "Needs analysis: We listen carefully to understand your specific requirements and design a customized solution.",
+    "step2": "Architecture and planning: Together we develop the optimal technical architecture that is both flexible and scalable.",
+    "step3": "Development: Our experienced developers implement the solution precisely and ensure the highest quality and functionality.",
+    "step4": "Integration: We integrate the developed systems seamlessly into your existing infrastructure so that you can benefit from them immediately.",
+    "step5": "Testing and quality assurance: Through thorough testing, we ensure that the solution works reliably and without errors.",
+    "step6": "Support and maintenance: Even after completion, we provide ongoing support and maintenance to ensure that your solution is always up to date."
+  },
+  "list": [
+    {
+      "title": "Customization",
+      "description": "Custom development enables the creation of solutions that are precisely tailored to the specific requirements of your company. This leads to greater efficiency, as the software is targeted towards existing business processes and goals rather than providing generic functionality."
+    },
+    {
+      "title": "Flexibility and scalability",
+      "description": "Customized software solutions can be easily adapted to future changes and growth of your business. They offer the flexibility to add new features and expand the architecture as needed without being bound by the limitations of pre-built systems."
+    },
+    {
+      "title": "Security",
+      "description": "Custom-developed software can be specially designed with security measures that meet the specific needs and risks of your business. Customized solutions can minimize security gaps and vulnerabilities, reducing the risk of cyber-attacks or data loss."
+    },
+    {
+      "title": "Long-term cost savings",
+      "description": "Although custom development may initially incur higher costs, these pay off through more efficient use of the software and less need for future customization or expensive upgrades. Custom solutions enable better cost control in the long term and prevent unnecessary expenditure on unused functions of standard software."
+    }
+  ],
+  "title": "Custom development expertise",
+  "description": "Our expertise in custom development enables us to develop tailor-made solutions that are optimized for your company's specific requirements and goals. With many years of experience, we offer reliable, scalable and secure software solutions that help your company to work more efficiently and position itself for long-term success.",
+  "expertise_list": [
+    "Customized solutions",
+    "Scalability",
+    "Flexibility",
+    "User-friendliness",
+    "Integration into existing systems",
+    "Security",
+    "Performance optimization",
+    "Agility",
+    "Technological innovation",
+    "Interface development",
+    "Maintenance and support",
+    "Long-term cost efficiency"
+  ],
+  "cta_title": "Ready to make your brand shine? Let's talk!",
+  "cta_description": "Together we'll make your story visible and successfully implement your next project."
+}

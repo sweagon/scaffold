@@ -1,0 +1,51 @@
+{
+  "sea_title": "SEA",
+  "sea_intro": "Arama motoru reklamcılığı (SEA) doğru hedef kitleye hızlı ve etkili bir şekilde ulaşmayı mümkün kılar. Görünürlüğünüzü artırmak ve nitelikli potansiyel müşterileri çekmek için hedeflerinize göre özelleştirilmiş SEA kampanyaları oluşturuyoruz. Sürekli optimizasyon ve hedefe yönelik ayarlamalar sayesinde kampanyalarınızın performansını en üst düzeye çıkarıyor ve en iyi yatırım getirisini elde etmenizi sağlıyoruz.",
+  "what_is_sea_title": "SEA NEDİR?",
+  "what_is_sea_description": "SEA (Arama Motoru Reklamcılığı), hedeflenen görünürlüğü oluşturmak ve nitelikli ziyaretçileri bir web sitesine yönlendirmek için arama motorlarında ücretli reklamcılık anlamına gelir. Bu, arama sonuçlarında belirgin bir şekilde görüntülenen reklamlar yerleştirilerek yapılır. Organik SEO'nun (arama motoru optimizasyonu) aksine, reklamveren konumlandırma için ödeme yapar. SEA, reklamlar doğrudan ilgili hedef gruplara gösterildiği için anında sonuç elde etmeyi mümkün kılar. Trafiği artırmanın ve hedeflenen satışları veya talepleri oluşturmanın hızlı bir yöntemidir.",
+  "our_approach_title": "SEA'ye yaklaşımımız",
+  "our_approach_steps": {
+    "step1": "Hedefli anahtar kelime araştırması: Hassas reklamlar yerleştirmek için hedef kitlenizin aktif olarak aradığı alakalı anahtar kelimeleri belirliyoruz.",
+    "step2": "Reklam oluşturma: Potansiyel müşterilerin dikkatini çekecek ilgi çekici ve cazip reklamlar oluşturuyoruz.",
+    "step3": "Bütçe optimizasyonu: Bütçenizi en iyi şekilde kullanmak ve en iyi sonuçları elde etmek için teklif stratejilerini ayarlıyoruz.",
+    "step4": "Hedefleme: İsrafı en aza indirmek için kampanyalarınızı ilgili kitlelere hedefliyoruz.",
+    "step5": "Sürekli optimizasyon: Düzenli ayarlamalar ve testlerle kampanyalarınızın performansını sürekli olarak iyileştiriyoruz.",
+    "step6": "Şeffaf raporlama: SEA kampanyalarınızın başarısı hakkında her zaman genel bir bakışa sahip olabilmeniz için net ve ayrıntılı raporlar sunuyoruz."
+  },
+  "list": [
+    {
+      "title": "SEA Strateji Geliştirme",
+      "description": "Etkili bir SEA stratejisi geliştirmek, kampanyalarınızın başarısı için temel taşıdır. En iyi anahtar kelimeleri belirlemek ve özelleştirilmiş reklamlar oluşturmak için kapsamlı bir pazar ve hedef grup analizi ile başlıyoruz. Stratejimiz, tıklama ve dönüşüm gibi kısa vadeli hedeflerin yanı sıra marka bilinirliği ve kullanıcı sadakati gibi uzun vadeli hedefleri de dikkate alır."
+    },
+    {
+      "title": "Kampanyaları Optimize Etmek için SEA Denetimleri",
+      "description": "SEA denetimi, reklamların, anahtar kelimelerin ve tekliflerin tüm yönlerini analiz ettiğimiz mevcut kampanyalarınızın kapsamlı bir incelemesidir. Bu analize dayanarak optimizasyon potansiyelini belirliyor, hedeflenen ayarlamaları uyguluyor ve kampanya performansını sürekli olarak iyileştiriyoruz. Amaç, reklam önlemlerinin verimliliğini artırmak ve dönüşüm oranını en üst düzeye çıkarmaktır."
+    },
+    {
+      "title": "Danışmanlık ve Sürekli Adaptasyon",
+      "description": "SEA, sürekli ayarlamalar gerektiren dinamik bir süreçtir. Kampanyalarınızı yeni pazar koşullarına, arama motoru algoritmalarındaki değişikliklere ve değişen kullanıcı davranışlarına uyarlamanız için size sürekli danışmanlık hizmeti sunuyoruz. Düzenli ayarlamalar yaparak kampanyalarınızın uzun vadede etkili kalmasını ve mümkün olan en iyi yatırım getirisini elde etmenizi sağlıyoruz."
+    },
+    {
+      "title": "Performans Analizi ve Raporlama",
+      "description": "Detaylı performans analizimiz sayesinde SEA kampanyalarınızın başarısını istediğiniz zaman takip edebilirsiniz. Tıklamalar, dönüşüm oranları ve maliyetler gibi temel rakamlar hakkında size net bilgiler sağlayan düzenli raporlar oluşturuyoruz. Bu temelde, kampanyaları optimize etmek ve böylece sonuçları sürekli olarak iyileştirmek için sağlam temellere dayanan kararlar alabiliriz."
+    }
+  ],
+  "sea_expertise_title": "SEA Uzmanlığı",
+  "sea_expertise_description": "SEA uzmanlığımız, başarılı reklam kampanyaları oluşturma ve optimize etme konusunda yılların deneyimine dayanmaktadır. Doğru anahtar kelimeleri, reklamları ve kitleleri hedefleyerek müşterilerimizin görünürlüğünü ve yatırım getirisini en üst düzeye çıkarmak için hedefli stratejiler kullanıyoruz.",
+  "sea_expertise_list": [
+    "Hedefli anahtar kelime araştırması",
+    "Reklam tasarımı",
+    "Bütçe optimizasyonu",
+    "Teklif verme stratejileri",
+    "Dönüşüm takibi",
+    "A/B testi",
+    "Kampanya yapısı",
+    "Reklam analizi",
+    "Hedef grup yaklaşımı",
+    "Performans izleme",
+    "Coğrafi hedefleme",
+    "Rakip analizi"
+  ],
+  "cta_title": "Markanızı parlatmaya hazır mısınız? Hadi konuşalım!",
+  "cta_description": "Birlikte hikayenizi görünür kılacak ve bir sonraki projenizi başarıyla gerçekleştireceğiz."
+}

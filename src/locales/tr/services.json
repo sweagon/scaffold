@@ -1,0 +1,61 @@
+{
+  "title": "Hizmetler",
+  "description": "Başarılı dijital çözümler doğru stratejiye ihtiyaç duyar – ve biz de tam olarak bu noktada devreye giriyoruz. İster web tasarımı, SEO, markalaşma veya özelleştirilmiş yazılım çözümleri olsun, şirketinizin ilerlemesine yardımcı olmak için size özel hizmetler sunuyoruz. Odak noktamız: ölçülebilir sonuçlara sahip yenilikçi, güçlü ve sürdürülebilir çözümler. Bir sonraki dijital projenizi birlikte gerçekleştirelim!",
+  "services": {
+    "web_design": {
+      "title": "Yenilikçi web tasarımı",
+      "description": "Sadece iyi görünen değil, aynı zamanda işlevsel ve kullanıcı dostu web siteleri tasarlıyoruz. Modern tasarım, optimize edilmiş performans ve dönüşüme net bir odaklanma ile web sitenizi gerçek bir başarı faktörüne dönüştürüyoruz."
+    },
+    "seo": {
+      "title": "SEO",
+      "description": "Daha fazla görünürlük, daha fazla erişim, daha fazla müşteri – veri odaklı SEO ile web sitenizi arama motoru sıralamalarında en üst sıralara taşıyoruz. Uzun vadeli başarınızı sağlamak için içeriği, teknolojiyi ve yapıyı optimize ediyoruz."
+    },
+    "branding": {
+      "title": "Markalaşma",
+      "description": "Güçlü bir marka insanların aklında kalır. Logo ve tasarımdan marka stratejisi ve konumlandırmaya kadar kusursuz bir kimlik geliştirmenize yardımcı oluyoruz."
+    },
+    "sea": {
+      "title": "SEA",
+      "description": "Etkili reklam kampanyaları, ölçülebilir sonuçlar – Google ve sosyal medyada hedefli reklamlar ile maksimum erişim ve daha yüksek dönüşüm sağlıyoruz."
+    },
+    "development": {
+      "title": "Özelleştirilmiş geliştirmeler",
+      "description": "Her şirket benzersizdir – ve gereksinimleri de öyle. İhtiyaçlarınıza mükemmel şekilde uyarlanmış özelleştirilmiş web ve yazılım çözümleri geliştiriyoruz."
+    }
+  },
+  "process": {
+    "scoping_session": "Kapsam belirleme oturumunda, proje için net bir temel oluşturmak üzere hedeflerinizi ve gereksinimlerinizi birlikte analiz ediyoruz.",
+    "proposal": "Proje için kararlaştırılan hedefleri, stratejileri ve zaman çerçevesini yansıtan özelleştirilmiş bir teklif oluşturuyoruz.",
+    "strategy": "Önceki adımlara dayanarak, projenin başarılı olmasını sağlayan iyi düşünülmüş bir strateji geliştiriyoruz.",
+    "build": "İnşa adımında, planlanan çözümleri uyguluyor ve stratejiyi gerçeğe dönüştürmek için gerekli tüm unsurları geliştiriyoruz.",
+    "deliver": "Son olarak, bitmiş projeyi teslim ediyor ve beklentilerinizi karşıladığından ve sorunsuz çalıştığından emin oluyoruz."
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "project_duration": {
+      "question": "Projenin tamamlanması ne kadar sürer?",
+      "answer": "Bir projenin süresi karmaşıklığına bağlıdır. Genellikle işbirliğinin ilk aşamasında net bir zaman çerçevesini tartışırız. Bir web sitesi gibi daha küçük projeler birkaç hafta içinde tamamlanabilirken, daha büyük çözümler biraz daha fazla zaman gerektirir. Süreç boyunca sizi bilgilendirmeye devam edeceğiz."
+    },
+    "cost": {
+      "question": "Ajansınızla çalışmanın maliyeti ne kadar?",
+      "answer": "Maliyetler projenin türüne ve kapsamına bağlı olarak değişir. İlk danışma ve kapsam belirleme oturumundan sonra, özel ihtiyaçlarınıza ve hedeflerinize göre uyarlanmış bir fiyat teklifi oluşturacağız. Bu size şeffaf ve adil bir fiyatlandırma yapısı sunar."
+    },
+    "support": {
+      "question": "Proje tamamlandıktan sonra da devam eden destek sunuyor musunuz?",
+      "answer": "Evet, web sitenizin veya yazılımınızın her zaman güncel olmasını ve en iyi şekilde çalışmasını sağlamak için sürekli bakım ve destek sunuyoruz. Proje başladıktan sonra bile ayarlamalar veya iyileştirmeler yapmak için her zaman yanınızdayız."
+    },
+    "communication": {
+      "question": "Proje sırasında iletişim nasıl sağlanıyor?",
+      "answer": "Yakın ve düzenli iletişime güveniyoruz. Proje boyunca tüm önemli kararlara ve gelişmelere dahil olacaksınız. Güncellemeleri paylaşmak ve soruları netleştirmek için Slack veya e-posta gibi araçlar kullanıyoruz. Gerekirse, ilerlemeyi tartışmak için düzenli toplantılar düzenliyoruz."
+    },
+    "changes": {
+      "question": "Proje tamamlandıktan sonra hala değişiklik yaptırabilir miyim?",
+      "answer": "Evet, elbette! Proje tamamlandıktan sonra herhangi bir zamanda ayarlamalar yapılabilir. İhtiyaçların değişebileceğini anlıyoruz ve projeniz tamamlandıktan sonra bile isteklerinizi gerçekleştirmek için esnek bir çözüm sunuyoruz."
+    }
+  },
+  "cta": {
+    "title": "Markanızı parlatmaya hazır mısınız?",
+    "subtitle": "Gelin sohbet edelim!",
+    "description": "Birlikte hikayenizi görünür kılacak ve bir sonraki projenizi başarıyla gerçekleştireceğiz."
+  }
+}

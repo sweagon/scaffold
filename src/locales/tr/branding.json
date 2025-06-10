@@ -1,0 +1,34 @@
+{
+  "branding_title": "Markalaşma",
+  "branding_intro": "Markalaşma, piyasada kimliğinizi oluşturmanın ve hedef kitlenizi etkilemenin anahtarıdır. Hem değerlerinizi yansıtan hem de kalıcı bir etki bırakan bir marka stratejisi geliştirmenize yardımcı oluyoruz. Logodan renk düzenine ve marka mesajına kadar, markanızın benzersiz, tutarlı olmasını ve tüm iletişim kanallarında yansıtılmasını sağlıyoruz.",
+  "what_is_branding_title": "Markalaşma Nedir?",
+  "what_is_branding_description": "Markalaşma, bir şirketin kendisini diğerlerinden ayıran benzersiz bir kimlik oluşturma sürecidir. Bu, logolar, renk paletleri ve yazı tipleri gibi görsel unsurların geliştirilmesinin yanı sıra değerlerin ve bir marka mesajının oluşturulmasını da içerir. Markalaşma, hedef kitle ile güven ve duygusal bağlar kurmayı amaçlar. Güçlü bir marka, tanınırlık sağlar, algıyı şekillendirir ve uzun vadeli iş başarısına önemli katkıda bulunur. Markalaşma sadece bir logodan ibaret değildir; tüm iletişim kanallarına yansıyan bütünsel bir marka kimliği oluşturmayı gerektirir.",
+  "our_approach_title": "Markalaşma Yaklaşımımız",
+  "our_approach_steps": {
+    "step1": "Marka Analizi: Benzersiz bir konumlandırma oluşturmak için markanızı ve rakiplerinizi analiz ediyoruz.",
+    "step2": "Hedef Kitle Tanımı: Hedef kitlenizin ihtiyaçlarını ve beklentilerini analiz ederek markalaşmanın müşteri odaklı olmasını sağlıyoruz.",
+    "step3": "Marka Vizyonu ve Değerleri: Net bir marka vizyonu geliştiriyor ve hedef kitlenizle duygusal bir bağ kurmanızı sağlayacak değerleri tanımlıyoruz.",
+    "step4": "Görsel Kimlik: Yaratıcı tasarımlar ve tutarlı bir renk paleti ile markanızın görsel olarak hemen tanınmasını sağlıyoruz.",
+    "step5": "Marka Mesajı: Tüm iletişim kanallarında aynı etkiye sahip, tutarlı ve ilgi çekici bir marka mesajı oluşturuyoruz.",
+    "step6": "Uygulama ve Tutarlılık: Marka unsurlarının tüm kanallarda güçlü ve tutarlı bir şekilde kullanılmasını sağlıyoruz."
+  },
+  "list": [
+    {
+      "title": "Marka Denetimi",
+      "description": "Marka denetimi, mevcut marka stratejisini analiz ederek zayıf noktaları ve iyileştirme alanlarını belirler. Markanın algısını, tasarımını ve pazardaki konumunu değerlendirerek gelecekteki optimizasyon için sağlam bir temel oluştururuz."
+    },
+    {
+      "title": "Marka Atölyesi",
+      "description": "Marka atölyesi sürecinde, markanızın kimliğini, değerlerini ve hedeflerini belirleyerek güçlü bir marka stratejisi geliştiriyoruz."
+    }
+  ],
+  "branding_expertise_title": "Marka Uzmanlığı",
+  "branding_expertise_description": "Markalaşma uzmanlığımızla, güçlü ve ayırt edici bir marka kimliği oluşturmanıza yardımcı oluyoruz.",
+  "branding_expertise_list": [
+    "Marka Vizyonu",
+    "Hedef Kitle",
+    "Marka Mesajı",
+    "Görsel Kimlik",
+    "Logo Tasarımı"
+  ]
+}

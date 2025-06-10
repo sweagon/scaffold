@@ -1,0 +1,49 @@
+{
+  "sea_title": "SEA",
+  "sea_intro": "Search engine advertising (SEA) makes it possible to reach the right target group quickly and effectively. We create customized SEA campaigns based on your goals to increase your visibility and attract qualified leads. Through continuous optimization and targeted adjustments, we maximize the performance of your campaigns and ensure that you achieve the best ROI.",
+  "what_is_sea_title": "WHAT IS SEA?",
+  "what_is_sea_description": "SEA (Search Engine Advertising) refers to paid advertising in search engines to generate targeted visibility and direct qualified visitors to a website. This is done by placing ads that are prominently displayed in the search results. In contrast to organic SEO (search engine optimization), the advertiser pays for the positioning. SEA makes it possible to achieve immediate results, as ads are displayed directly to the relevant target groups. It is a quick method to increase traffic and generate targeted sales or inquiries.",
+  "our_approach_title": "Our approach to SEA",
+  "our_approach_steps": {
+    "step1": "Targeted keyword research: We identify relevant keywords that your target group is actively searching for in order to place precise ads.",
+    "step2": "Ad creation: We create engaging and compelling ads that capture the attention of potential customers.",
+    "step3": "Budget optimization: We adjust bidding strategies to make the best use of your budget and achieve the best results.",
+    "step4": "Targeting: We target your campaigns to relevant audiences to minimize wastage.",
+    "step5": "Continuous optimization: We continuously improve the performance of your campaigns through regular adjustments and tests.",
+    "step6": "Transparent reporting: We provide clear and detailed reports so that you always have an overview of the success of your SEA campaigns."
+  },
+  "list": [
+    {
+      "title": "SEA strategy development",
+      "description": "Developing an effective SEA strategy is the cornerstone for the success of your campaigns. We start with a thorough market and target group analysis to identify the best keywords and create customized ads. Our strategy takes into account both short-term goals such as clicks and conversions as well as long-term goals such as brand awareness and user loyalty."
+    },
+    {
+      "title": "SEA audits to optimize campaigns",
+      "description": "An SEA audit is a thorough examination of your current campaigns in which we analyze all aspects of ads, keywords and bids. Based on this analysis, we identify optimization potential, implement targeted adjustments and continuously improve campaign performance. The aim is to increase the efficiency of the advertising measures and maximize the conversion rate."
+    },
+    {
+      "title": "Consulting and continuous adaptation",
+      "description": "SEA is a dynamic process that requires constant adjustments. We offer you continuous consulting to adapt your campaigns to new market conditions, changes in search engine algorithms and changing user behavior. By making regular adjustments, we ensure that your campaigns remain effective in the long term and that you achieve the best possible return on investment."
+    },
+    {
+      "title": "Performance analysis and reporting",
+      "description": "With our detailed performance analysis, you can track the success of your SEA campaigns at any time. We create regular reports that provide you with clear insights into key figures such as clicks, conversion rates and costs. On this basis, we can make well-founded decisions to optimize the campaigns and thus continuously improve the results."
+    }
+  ],
+  "sea_expertise_title": "SEA expertise",
+  "sea_expertise_description": "Our SEA expertise is based on years of experience in creating and optimizing successful advertising campaigns. We employ targeted strategies to maximize our clients' visibility and ROI by targeting the right keywords, ads and audiences.",
+  "sea_expertise_list": [
+    "Targeted keyword research",
+    "Ad design",
+    "Budget optimization",
+    "Bidding strategies",
+    "Conversion tracking",
+    "A/B testing",
+    "Campaign structure",
+    "Ad analysis",
+    "Target group approach",
+    "Performance monitoring",
+    "Geographic targeting",
+    "Competitor analysis"
+  ]
+}

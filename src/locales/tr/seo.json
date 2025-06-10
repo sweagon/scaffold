@@ -1,0 +1,53 @@
+{
+  "seo_title": "SEO",
+  "seo_intro": "Dijital dünyada, şirketinizin çevrimiçi ortamda bulunması çok önemlidir. Arama motoru optimizasyonu (SEO), web sitenizi Google & Co. arama sonuçlarının en üstünde konumlandırmanıza yardımcı olur. Bu da daha fazla potansiyel müşteriye ulaşmanızı ve görünürlüğünüzü artırmanızı sağlar. Peki SEO tam olarak nedir ve başarınız için neden bu kadar önemlidir?",
+  "what_is_seo_title": "SEO nedir?",
+  "what_is_seo_description": "SEO (Arama Motoru Optimizasyonu), Google gibi arama motorlarının organik arama sonuçlarında görünürlüğünü artırmak için bir web sitesini optimize etme sürecidir. Amaç, ilgili anahtar kelimeleri seçerek, yüksek kaliteli içerik, teknik optimizasyon ve geri bağlantılar oluşturarak web sitesinin ilgili arama sorgularında daha iyi sıralanmasını sağlamaktır. SEO, arama sonuçlarında daha üst sıralarda yer alarak siteye daha nitelikli ziyaretçi getirmeyi amaçlayan uzun vadeli bir stratejidir.",
+  "our_approach_title": "SEO'ya yaklaşımımız",
+  "our_approach_steps": {
+    "step1": "Özelleştirilmiş anahtar kelime analizi: Doğru kitleleri hedeflemek için işletmeniz için en iyi anahtar kelimeleri belirliyoruz.",
+    "step2": "İçerik optimizasyonu: Hem arama motorları hem de kullanıcılar için değerli içerikler oluşturuyor ve optimize ediyoruz.",
+    "step3": "Teknik SEO optimizasyonu: Web sitenizin teknik olarak kusursuz çalıştığından ve arama motorlarının kolayca tarayabildiğinden emin oluruz.",
+    "step4": "Sayfa içi SEO: Meta etiketleri, URL'leri ve dahili bağlantıları optimize ederek her sayfanın görünürlüğünü artırıyoruz.",
+    "step5": "Backlink stratejisi: Alan adı otoritenizi güçlendirmek için yüksek kaliteli geri bağlantılar oluşturmaya yönelik hedefli bir strateji geliştiriyoruz.",
+    "step6": "Sürekli analiz ve ayarlama: Performansı düzenli olarak izliyor ve uzun vadeli başarı sağlamak için stratejiyi ayarlıyoruz."
+  },
+  "list": [
+    {
+      "title": "SEO İçeriği",
+      "description": "İyi içerik, her SEO stratejisinin temel taşıdır. Google gibi arama motorları yüksek kaliteli, alakalı ve düzenli olarak güncellenen içeriğe sahip siteleri tercih eder. Amacımız, hem hedef kitlenizin ilgisini çekecek hem de arama motorlarının gereksinimlerini karşılayacak içerikler oluşturmaktır. Hedeflenen anahtar kelime entegrasyonu, net yapılandırma ve çekici metinler sayesinde içeriğinizin yalnızca okunmasını değil, aynı zamanda paylaşılmasını ve bağlantı verilmesini de sağlıyoruz."
+    },
+    {
+      "title": "Teknik SEO",
+      "description": "Teknik SEO, diğer tüm SEO önlemlerinin üzerine inşa edildiği temeldir. Arama motorlarının sitenizi sorunsuz bir şekilde indeksleyebilmesi için web sitenizin teknik olarak kusursuz bir şekilde çalışmasını sağlıyoruz. Bu, yükleme hızını iyileştirme, net bir URL yapısı uygulama ve daha iyi taranabilirlik için sayfa yapısını optimize etme gibi optimizasyonları içerir. Ayrıca sitenizin Google için önemli bir sıralama faktörü olan mobil cihazlarda mükemmel şekilde çalışmasını sağlıyoruz."
+    },
+    {
+      "title": "Anahtar Kelime Araştırması ve Optimizasyonu",
+      "description": "Başarılı bir SEO çalışmasının temelinde kapsamlı bir anahtar kelime araştırması yatar. Hedef kitlenizin hangi arama terimlerini kullandığını analiz eder ve sitenizi buna göre optimize ederiz. Mesele sadece doğru anahtar kelimeleri seçmek değil, aynı zamanda okunabilirlikten veya kullanıcı dostu olmaktan ödün vermeden bunları içeriğinize nasıl etkili bir şekilde entegre edeceğinizdir. Bu şekilde doğru arama sorguları için görünür olmanızı sağlıyoruz."
+    },
+    {
+      "title": "Sitenin SEO Yapısı",
+      "description": "Web sitenizin yapısı SEO sıralamasında çok önemli bir rol oynar. Net bir hiyerarşi ve basit navigasyon sadece daha iyi bir kullanıcı deneyimi sağlamakla kalmaz, aynı zamanda arama motorları tarafından daha iyi indekslenmeyi de sağlar. Arama motorlarının içeriğinizi daha verimli bir şekilde tarayabilmesi ve kategorize edebilmesi için sayfa yapınızı optimize ediyoruz. Bu, başlık etiketlerinin (H1, H2, H3) kullanımını, mantıklı bir sayfa mimarisini ve arama motorlarının sayfanızı anlamasını kolaylaştıran bir site haritasını içerir."
+    },
+    {
+      "title": "SEO Uzmanlığı",
+      "description": "Arama motoru optimizasyonunda yılların deneyimiyle, çevrimiçi görünürlüğünüzü en üst düzeye çıkaran ve işletmenizi rekabette öne çıkaran özel SEO stratejileri sunuyoruz. Web sitenizi yalnızca üst sıralara çıkarmak için değil, aynı zamanda uzun vadede başarılı olmasını sağlamak için derinlemesine uzmanlığı yenilikçi yöntemlerle birleştiriyoruz."
+    }
+  ],
+  "seo_expertise_list": [
+    "Anahtar kelime araştırması",
+    "Sayfa içi optimizasyon",
+    "Teknik SEO",
+    "Backlink geliştirme",
+    "Mobil optimizasyon",
+    "SEO dostu URL yapısı",
+    "Meta etiketleri optimizasyonu",
+    "Sayfanın yüklenme hızı",
+    "İçerik pazarlama",
+    "Kullanıcı dostu olma (UX)",
+    "Yerel arama için optimizasyon (yerel SEO)",
+    "Arama motoru analizi ve raporlama"
+  ],
+  "cta_title": "Markanızı parlatmaya hazır mısınız? Hadi konuşalım!",
+  "cta_description": "Birlikte hikayenizi görünür kılacak ve bir sonraki projenizi başarıyla gerçekleştireceğiz."
+}

@@ -1,0 +1,14 @@
+{
+  "title": "About Us",
+  "description": "Maximum performance for your full potential: We live what we do.",
+  "challenges": "Complex challenges require well-thought-out and optimally coordinated solutions. That is why we combine our core competencies into customized strategies that are precisely tailored to our clients' goals.",
+  "services": "As a full-service online marketing agency, we offer a comprehensive range of services: we optimize websites, design and launch targeted campaigns, create and distribute high-quality content, develop creative designs and program individual solutions. Our internal teams of experts ensure short decision-making paths, avoid delays and misunderstandings and ensure efficient implementation of your projects.",
+  "services_list": [
+    "Website optimization",
+    "Design and launch of targeted campaigns",
+    "Creation and distribution of high-quality content",
+    "Development of creative designs",
+    "Programming of individual solutions"
+  ],
+  "efficiency": "Our internal teams of experts ensure short decision-making paths, avoid delays and misunderstandings, and ensure efficient implementation of your projects."
+}

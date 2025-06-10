@@ -1,7 +1,21 @@
 {
-  "files": [],
-  "references": [
-    { "path": "./tsconfig.app.json" },
-    { "path": "./tsconfig.node.json" }
-  ]
+  "compilerOptions": {
+    "typeRoots": ["./node_modules/@types"],
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true, // Enable strict mode for better type-checking
+    "noEmit": true, // Prevent TypeScript from generating .js files
+    "jsx": "react-jsx", // If you're using React 17+ JSX Transform
+    "baseUrl": ".", // Useful for absolute imports if needed
+    "paths": {
+      "swiper/css": ["node_modules/swiper/css"]
+    }
+  },
+  "include": ["src/**/*.ts", "src/**/*.tsx"],
+  "exclude": ["node_modules", "dist"]
 }

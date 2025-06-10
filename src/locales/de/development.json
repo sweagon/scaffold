@@ -1,0 +1,51 @@
+{
+  "development_title": "CUSTOM DEVELOPMENT",
+  "development_intro": "Mit individuell entwickelten Lösungen bieten wir dir eine Software, die exakt auf deine Geschäftsprozesse abgestimmt ist. Ob es um die Entwicklung komplexer Webapplikationen, Schnittstellen oder spezifischer Tools geht – wir schaffen digitale Produkte, die effizient und benutzerfreundlich sind. Durch maßgeschneiderte Lösungen steigern wir deine Effizienz und stellen sicher, dass deine Anforderungen vollständig erfüllt werden.",
+  "what_is_development_title": "WAS IST CUSTOM DEVELOPMENT?",
+  "what_is_development_description": "Custom Development bezeichnet die maßgeschneiderte Entwicklung von Softwarelösungen, die speziell auf die individuellen Bedürfnisse und Anforderungen eines Unternehmens abgestimmt sind. Dabei werden keine vorgefertigten Standardlösungen verwendet, sondern einzigartige Programme, Webanwendungen oder Tools entwickelt, die den spezifischen Geschäftsprozessen und Zielen des Unternehmens entsprechen. Custom Development ermöglicht es, optimale Funktionalitäten und eine bessere Benutzererfahrung zu schaffen, die direkt auf die Anforderungen und Herausforderungen des Unternehmens zugeschnitten sind.",
+  "our_approach_title": "Unser Ansatz für Custom Development",
+  "our_approach_steps": {
+    "step1": "Bedarfsanalyse: Wir hören genau zu, um deine spezifischen Anforderungen zu verstehen und eine individuelle Lösung zu entwerfen.",
+    "step2": "Architektur und Planung: Gemeinsam entwickeln wir die optimale technische Architektur, die sowohl flexibel als auch skalierbar ist.",
+    "step3": "Entwicklung: Unsere erfahrenen Entwickler setzen die Lösung präzise um und gewährleisten höchste Qualität und Funktionalität.",
+    "step4": "Integration: Wir integrieren die entwickelten Systeme nahtlos in deine bestehende Infrastruktur, sodass du sofort davon profitieren kannst.",
+    "step5": "Testing und Qualitätssicherung: Durch gründliche Tests stellen wir sicher, dass die Lösung zuverlässig und fehlerfrei funktioniert.",
+    "step6": "Support und Wartung: Auch nach der Fertigstellung bieten wir kontinuierliche Unterstützung und Wartung, um sicherzustellen, dass deine Lösung immer auf dem neuesten Stand bleibt."
+  },
+  "list": [
+    {
+      "title": "Individuelle Anpassung",
+      "description": "Custom Development ermöglicht die Erstellung von Lösungen, die exakt auf die spezifischen Anforderungen deines Unternehmens abgestimmt sind. Dies führt zu einer höheren Effizienz, da die Software gezielt auf die bestehenden Geschäftsprozesse und Ziele ausgerichtet ist, anstatt allgemeine Funktionen zu bieten."
+    },
+    {
+      "title": "Flexibilität und Skalierbarkeit",
+      "description": "Maßgeschneiderte Softwarelösungen können leicht an zukünftige Veränderungen und Wachstum deines Unternehmens angepasst werden. Sie bieten die Flexibilität, neue Funktionen hinzuzufügen und die Architektur nach Bedarf zu erweitern, ohne an die Einschränkungen vorgefertigter Systeme gebunden zu sein."
+    },
+    {
+      "title": "Sicherheit",
+      "description": "Individuell entwickelte Software kann speziell mit Sicherheitsvorkehrungen ausgestattet werden, die den spezifischen Anforderungen und Risiken deines Unternehmens gerecht werden. Durch maßgeschneiderte Lösungen können Sicherheitslücken und Schwachstellen minimiert werden, was das Risiko von Cyberangriffen oder Datenverlusten verringert."
+    },
+    {
+      "title": "Langfristige Kostenersparnis",
+      "description": "Obwohl Custom Development initial höhere Kosten verursachen kann, zahlen sich diese durch eine effizientere Nutzung der Software und weniger Notwendigkeit für zukünftige Anpassungen oder teure Upgrades aus. Maßgeschneiderte Lösungen ermöglichen langfristig eine bessere Kostenkontrolle und verhindern unnötige Ausgaben für ungenutzte Funktionen von Standardsoftware."
+    }
+  ],
+  "title": "Custom Development Expertise",
+  "description": "Unsere Expertise im Bereich Custom Development ermöglicht es uns, maßgeschneiderte Lösungen zu entwickeln, die optimal auf die spezifischen Anforderungen und Ziele deiner Firma zugeschnitten sind. Mit langjähriger Erfahrung bieten wir zuverlässige, skalierbare und sichere Softwarelösungen, die deinem Unternehmen helfen, effizienter zu arbeiten und sich langfristig erfolgreich zu positionieren.",
+  "expertise_list": [
+    "Maßgeschneiderte Lösungen",
+    "Skalierbarkeit",
+    "Flexibilität",
+    "Benutzerfreundlichkeit",
+    "Integration in bestehende Systeme",
+    "Sicherheit",
+    "Performance-Optimierung",
+    "Agilität",
+    "Technologische Innovation",
+    "Schnittstellenentwicklung",
+    "Wartung und Support",
+    "Langfristige Kosteneffizienz"
+  ],
+  "cta_title": "Bereit, deine Marke zum Strahlen zu bringen? Lass uns reden!",
+  "cta_description": "Gemeinsam machen wir deine Geschichte sichtbar und setzen dein nächstes Projekt erfolgreich um."
+}

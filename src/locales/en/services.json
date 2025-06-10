@@ -1,0 +1,63 @@
+{
+  "title": "Services",
+  "description": "Successful digital solutions require the right strategy – and that's exactly where we come in. Whether web design, SEO, branding or individual software solutions, we offer customized services that will help your business move forward. Our focus: innovative, powerful and sustainable solutions with measurable results. Let's implement your next digital project together!",
+  "services": {
+    "web_design": {
+      "title": "Innovative web design",
+      "description": "We design websites that not only look good, but are also functional and user-friendly. With modern design, optimized performance and a clear focus on conversion, we make your website a real success factor."
+    },
+    "seo": {
+      "title": "SEO",
+      "description": "More visibility, more reach, more customers – with data-driven SEO, we get your website to the top of search engine results. We optimize content, technology and structure so that you can achieve long-term success.",
+      "image": "/vision-1.png"
+    },
+    "branding": {
+      "title": "Branding",
+      "description": "A strong brand stays in people's minds. We help you develop a distinctive identity – from logo and design to brand strategy and positioning.",
+      "image": "/vision-1.png"
+    },
+    "sea": {
+      "title": "SEA",
+      "description": "Effective advertising campaigns, measurable results – with targeted ads on Google and social media, we ensure maximum reach and higher conversions."
+    },
+    "development": {
+      "title": "Customized developments",
+      "description": "Every company is unique – and so are its requirements. We develop customized web and software solutions that are perfectly tailored to your needs."
+    }
+  },
+  "process": {
+    "scoping_session": "In the scoping session, we work with you to analyze your goals and requirements in order to create a clear basis for the project.",
+    "proposal": "We create a customized offer that reflects the agreed goals, strategies and time frame for the project.",
+    "strategy": "Based on the previous steps, we develop a well-thought-out strategy that ensures the success of the project.",
+    "build": "In the build step, we implement the planned solutions and develop all the necessary elements to turn the strategy into reality.",
+    "deliver": "At the end, we deliver the finished project and make sure that it meets your expectations and works smoothly."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "project_duration": {
+      "question": "How long does it take to complete the project?",
+      "answer": "The duration of a project depends on its complexity. Usually, we discuss a clear time frame in the first phase of our collaboration. Smaller projects such as a website can be completed in a few weeks, while larger solutions take a little longer. We will keep you informed throughout the entire process."
+    },
+    "cost": {
+      "question": "What does it cost to work with your agency?",
+      "answer": "Costs vary depending on the type and scope of the project. After an initial consultation and scoping session, we provide a customized offer based on your specific needs and goals. This way, you get a transparent and fair pricing structure."
+    },
+    "support": {
+      "question": "Do you also offer ongoing support after the project is completed?",
+      "answer": "Yes, we offer ongoing maintenance and support to ensure that your website or software always stays up to date and performs optimally. We are also always available to make adjustments or improvements after the project has started."
+    },
+    "communication": {
+      "question": "How is communication handled during the project?",
+      "answer": "We rely on close and regular communication. You will be involved in all important decisions and developments throughout the entire project. We use tools like Slack or email to share updates and clarify questions. If needed, we will schedule regular meetings to discuss progress."
+    },
+    "changes": {
+      "question": "Can I still make changes after the project is completed?",
+      "answer": "Yes, of course! Adjustments are possible at any time after the project has been completed. We understand that requirements can change and offer a flexible solution even after your project has been completed to implement your wishes."
+    }
+  },
+  "cta": {
+    "title": "Ready to make your brand shine?",
+    "subtitle": "Let's talk!",
+    "description": "Together we will make your story visible and successfully implement your next project."
+  }
+}
